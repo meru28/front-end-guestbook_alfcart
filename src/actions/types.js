@@ -1,0 +1,5 @@
+export const GET_TAMU_SUCCESS = "GET_TAMU_SUCCESS";
+export const LOADING = "LOADING";
+export const SYSTEM_ERROR = "SYSTEM_ERROR";
+export const TAMBAH_TAMU_SUKSES = "TAMBAH_TAMU_SUKSES";
+export const TAMBAH_TAMU_GAGAL = "TAMBAH_TAMU_GAGAL";
